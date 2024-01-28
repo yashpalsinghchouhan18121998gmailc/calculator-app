@@ -1,0 +1,8 @@
+.inputdisplay{
+    margin: 10px;
+    width: 200px;
+    
+    border: 1px black solid;
+    font-size: 25px;
+    border-radius: 5px;
+  }
